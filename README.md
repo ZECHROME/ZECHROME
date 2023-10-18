@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZECHROME
+- 👋 Hi, I’m @ZECHROME or I am usually called Kenny
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript but I can't get the hang of it
 - 💞️ I’m looking to collaborate on javascript projects
